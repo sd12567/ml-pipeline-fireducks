@@ -1,0 +1,15 @@
+artifact_uri: file:///home/neel/Downloads/ml-pipeline-fireducks/mlruns/327982495986074598/a81aa4bbabae417aa6e64ca4b5080bf7/artifacts
+end_time: 1744265857363
+entry_point_name: ''
+experiment_id: '327982495986074598'
+lifecycle_stage: active
+run_id: a81aa4bbabae417aa6e64ca4b5080bf7
+run_name: placid-doe-481
+run_uuid: a81aa4bbabae417aa6e64ca4b5080bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744265855289
+status: 3
+tags: []
+user_id: neel
